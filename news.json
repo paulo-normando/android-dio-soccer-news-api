@@ -1,27 +1,27 @@
 [
   {
-    "id":1,
+    "id": 1,
     "title":"Onda de lesões desfalca seleções",
     "description":"Ruptura de ligamento é, sozinha, responsável por quatro baixas importantes: Marta na Copa América, Catarina Macario no Campeonato da Concacaf, Alexia e Maroszán na Eurocopa",
     "image":"https://paulo-normando.github.io/android-dio-soccer-news-api/images/1.jpg",
     "link":"https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/06/onda-de-lesoes-desfalca-selecoes-nas-competicoes-internacionais-do-futebol-feminino.ghtml"
   },
   {
-    "id":2,
+    "id": 2,
     "title":"Sem a camisa 10",
     "description":"Pia distribui liderança na Seleção com ausência da capitã Marta na Copa América",
     "image":"https://paulo-normando.github.io/android-dio-soccer-news-api/images/2.jpg",
     "link":"https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/03/sem-a-camisa-10-pia-distribui-lideranca-na-selecao-com-ausencia-da-capita-marta-na-copa-america.ghtml"
   },
   {
-    "id":3,
+    "id": 3,
     "title":"Natascha e Duda Sampaio são chamadas para a Copa América",
     "description":"Seleção feminina embarca terça-feira para a Colômbia e estreia no sábado contra a Argentina",
     "image":"https://paulo-normando.github.io/android-dio-soccer-news-api/images/3.jpg",
     "link":"https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/03/natascha-e-duda-sampaio-sao-chamadas-para-a-copa-america-apos-cortes-de-leticia-izidoro-e-gabi-nunes.ghtml"
   },
   {
-    "id":4,
+    "id": 4,
     "title":"Otimismo",
     "description":"Apesar de derrotas, Pia mantém confiança na seleção: Estaremos prontas para a Copa América",
     "image":"https://paulo-normando.github.io/android-dio-soccer-news-api/images/4.jpg",
