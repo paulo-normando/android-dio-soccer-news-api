@@ -1,10 +1,5 @@
-# android-dio-soccer-news-api
+[Finished]
 
-## API REST simulator rapository for women soccer news
+# android-dio-matches-simulator-api
 
-### **A Api está organizada da seguinte maneira:**
-- id da notícia
-- título
-- descrição
-- imagem
-- link
+API REST simulator (GitHub pages) repository for news of woman soccer South America Cup
